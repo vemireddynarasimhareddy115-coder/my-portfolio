@@ -1,0 +1,142 @@
+body{
+background-color:black;
+}
+.nav 
+{
+ list-style:none;
+ display:flex;
+ height:70px;
+width:100%;
+justify-content:space-evenly;
+background-color:black;
+color:white;
+}
+
+li{margin-left:85px;}
+ 
+li a {
+color:white;
+list-style:none;
+text-decoration:none;}
+
+ul{
+list-style:none;
+ display:flex;
+ margin-left:80vh;
+
+}
+.hello img
+{
+ width:200px;
+ height:200px;
+border-radius:50%;
+border:4px solid rgb(202, 15, 184);
+margin-top:40px;
+
+
+}
+.hello img:hover{
+border:4px solid blue;
+}
+
+.name
+{
+color:white;
+
+margin-top:10px;
+font-size:20px;
+}
+.name h1 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-shadow:rgba(73,23,240) 2px 2px 30px;
+}
+.name p{
+    text-align: center;
+}
+.pavan{
+align-items:center;
+margin-top: 380px;
+color: aquamarine;
+justify-items: center;
+
+}
+.nithin
+{
+justify-content:center;
+align-items:center;
+}
+.nithin button
+{
+border:2px solid aqua;
+border-radius:7px;
+background-color:cornflowerblue;
+color:white;
+width:70px;
+height:40px;
+}
+.hhh{
+color:orange;
+justify-content: center;
+text-align: center;
+margin-top: 100px;
+}
+.skills
+{
+margin-left:30px;
+color:white;
+width:200vh;
+height:450px;
+border:3px solid #9112BC;
+border-radius:10px;
+margin-top:180px;
+margin-bottom:70px;
+ 
+}
+.skills .s1{
+    margin-left: 20px;
+}
+.skills h1{
+text-align:center;
+color: aqua;
+
+}
+.skills .logo1{
+display:flex;
+}
+ .skill-logo {
+  width: 30px;
+  height: 30px;
+  margin-right: 8px;
+}
+
+.container {
+  
+  border-radius: 25px;
+width:80%;
+ 
+
+}
+
+.skill {
+  background-color: rgb(116, 194, 92);
+  color: white;
+border:2px solid blue;
+  padding: 2px;
+margin-top:20px;
+margin-left:30px;
+text-align: right;
+  font-size: 14px;
+  border-radius: 25px;
+}
+.contact{
+    color: aqua;
+    margin-top: 280px;
+    margin-bottom: 170px;
+}
+
+
+
+ 
+ 
